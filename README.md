@@ -2,7 +2,7 @@
 Metadata and 10 Test Images hosted on IFPS
 
 ## test_json
-https://gateway.pinata.cloud/ipfs/QmZbKAn1HiBCN1XLpphCmmhMA2ZzLZ1uubJrEizRFPf8fG/
+https://gateway.pinata.cloud/ipfs/QmQ1AT7S8DfJ2WA157tsCTmTbW8mQ1zeAtjyYFCjc4e48d/
 
 ## test_images
-https://gateway.pinata.cloud/ipfs/QmS1shbSKqC8zNEjkAmJDFPp6XqgGTH7dy58qAgcN8GRco/
+https://gateway.pinata.cloud/ipfs/QmUDHkbLNQY9nuivdrtoSqecS8tgRbMEpzs6yw5Q8gDG3s/
